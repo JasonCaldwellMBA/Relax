@@ -3,7 +3,7 @@
 Relax Inc. makes productivity and project management software that's popular with both individuals and teams. 
 Founded by several former Facebook employees, it's considered a great company to work for.
 
-##Project Summary
+## Project Summary
 - Created the target feature of 'is_adopted' from the engagement data by:
     - Grouping by user.
     - Resampling the logins to get the total count per week.
